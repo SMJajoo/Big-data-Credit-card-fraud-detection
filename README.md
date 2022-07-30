@@ -15,14 +15,24 @@ Three aproaches are used to solve this problem.
 
 1. Local
 
+<img width="251" alt="image" src="https://user-images.githubusercontent.com/49164907/181906310-51397cd5-caba-4b3d-9dd0-86f66518e1f7.png">
+
 
 <img width="1841" alt="Local SMOTE+ENN" src="https://user-images.githubusercontent.com/49164907/181906259-aa0b4e06-b366-4139-b50a-19cda92c4e9f.png">
 
+<img width="221" alt="image" src="https://user-images.githubusercontent.com/49164907/181906383-cfa9a4bd-d600-4bcd-8519-51159bf25c4d.png">
+
+
 2. Global
+<img width="251" alt="image" src="https://user-images.githubusercontent.com/49164907/181906323-39dfcf3f-dd84-49af-89b5-1ea36e8c8a1f.png">
+
 
 ![GlobalSMOTEEN](https://user-images.githubusercontent.com/49164907/181906260-82968d5b-78c9-402a-953b-de7bdd0e59e3.png)
 
 3. Hybrid
+
+<img width="254" alt="image" src="https://user-images.githubusercontent.com/49164907/181906344-0b61b380-62a0-4965-a0ae-4064557e325c.png">
+
 
 ![HybridSMOTEENN](https://user-images.githubusercontent.com/49164907/181906257-972d629c-a57d-42f5-8f00-439929ba0524.png)
 
